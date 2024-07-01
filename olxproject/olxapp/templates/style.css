@@ -1,0 +1,17 @@
+.form-control-custom {
+    padding:50px;
+    margin-bottom: 10px;
+
+}
+
+label {
+    color: rgb(226, 222, 222); 
+    font-family: 'Arial', sans-serif;
+}
+
+
+img{
+    height: 200px;
+    width: 90%;
+    object-fit:cover;
+}
